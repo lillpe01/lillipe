@@ -1,0 +1,138 @@
+@charset "utf-8";
+
+/*
+Experience Page Stylesheet
+Final Project
+Peter Lillibridge
+
+File Name: pl_experience.css
+*/
+
+/* Body and Heading Styles */
+
+body {
+	padding: 8px;
+}
+
+h1#experience {
+	display: block;
+	font-family: impact;
+	font-size: 36pt;
+}
+
+h2 {
+	display: block;
+	font-family: "Courier New";
+	font-size: 18pt;
+}
+
+h3 {
+	font-family: cursive;
+	font-size: 14pt;
+}
+
+h1#experience img {
+	max-width: 15%;
+	height: auto;
+}
+
+
+
+
+/* Description Styles */
+
+
+dt {
+	display: block;
+	text-decoration: underline;
+	font-size: 14pt;
+	color: gray;
+	padding: 5px;
+}
+
+section#IG dt {
+	color: #708FA3;
+}
+
+section#IG dd {
+	color: white;
+}
+
+section#IG ul {
+	color: white;
+}
+
+section#Luther dt {
+	color: #D4B96A;
+}
+
+section#amundsons dt {
+	color: #7F81B1;
+}
+
+section#amundsons dd {
+	color: white;
+}
+
+section#amundsons ul {
+	color: white;
+}
+
+section#museum dt {
+	color: #D4A66A;
+}
+
+section {
+	padding: 3px;
+}
+
+section h2 {
+	font-weight: normal;
+	margin: 0px;
+	padding:20px 0px 10px 20px;
+	color: white;
+}
+
+section#IG {
+	display: block;
+	background-color: #29526D;
+}
+
+section#IG h2 {
+	display: block;
+	background-color: #708FA3;
+}
+
+section#Luther {
+	display: block;
+	background-color: #AA8C39;
+}
+
+section#Luther h2 {
+	display: block;
+	background-color: #D4B96A;
+}
+
+section#amundsons {
+	display: block;
+	background-color: #333676;
+}
+
+section#amundsons h2 {
+	display: block;
+	background-color: #7F81B1;
+}
+
+section#museum {
+	display: block;
+	background-color: #AA7839;
+}
+
+section#museum h2 {
+	display: block;
+	background-color: #D4A66A;
+}
+	
+
+	
+	

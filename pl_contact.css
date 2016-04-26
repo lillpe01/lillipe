@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+/*
+Contact Page Stylesheet
+Final Project
+Peter Lillibridge
+
+File Name: pl_contact.css
+*/
+
+/* Heading Styles */
+
+h1 {
+	display: block;
+	padding: 3px;
+	font-family: Verdana, sans-serif;
+	font-size: 18pt;
+	color: black;
+	background-color: #D4C66A;
+}
+
+/* Paragraph Styles */
+p {
+	color: black;
+	font-family: "Times New Roman", serif;
+	font-size: 14pt;
+}
+
+
+
+/* Article Styles */
+
+article {
+	margin: 0;
+	padding: 10px;
+	display: block;
+	max-width: 960px;
+	min-width: 640px;
+	height: 400px;
+	background-color: #AA9A39;
+}
+
+article img {
+	float: right;
+	max-width: 50%;
+	max-height: 100%;
+	border-radius: 15px;
+}

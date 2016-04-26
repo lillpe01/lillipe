@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+/*
+Stylesheet
+Final Project
+Peter Lillibridge
+
+File Name: pl_leadership.css
+*/
+
+/* Heading Styles */
+
+h1 {
+	font-size: 24;
+	color: white;
+	background-color: #4D648D;
+	display: block;
+	font-family: Quicksand, Verdana;
+}
+
+h2 {
+	color: white;
+	background-color: #4D6480;
+	display: block;
+	font-family: Quicksand, Verdana;
+}
+
+p#home {
+	display: block;
+	color: navy;
+	background-color: white;
+} 
+
+
+
+/* Article Styles */
+
+article {
+	display: block;
+	display: center;
+	padding: 8px;
+	width: 98.5%;
+	height: 50%;
+	background-color: #051838;
+}
+
+article img {
+	float: right;
+	border-radius: 30%;
+	height: 45%;
+	width: 45%;
+}
+
+/* Paragraph Styles */
+
+
+p {
+	font-family: "Times New Roman", Geneva, sans-serif;
+	padding: 1.5em;
+	width: 65%;
+	font-size: 14pt;
+	color: white;
+}

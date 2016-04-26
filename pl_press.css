@@ -1,0 +1,80 @@
+@charset "utf-8";
+
+/*
+Stylesheet
+Final Project
+Peter Lillibridge
+
+File Name: pl_press.css
+*/
+
+
+/* Image */
+
+img {
+	width: 50%;
+	height: 30%;
+	float: right;
+
+}
+
+
+
+/* article */
+
+article h1 h2 h3 {
+	display: block;
+}
+
+article.stmarys h3 {
+	color: white;
+	background-color: #86A136;
+	font-family: Verdana;
+	font-style: bold;
+	font-size: 15pt;
+	height: 25px;
+	width 100%;
+}
+
+article.stmarys {
+	background-color: #DDF2A1;
+	padding: 8px;
+	border-style: double;
+	border-width: 8px;
+}
+
+article.augustana {
+	background-color: #E3BCD9;
+	padding: 8px;
+	border-style: double;
+	border-width: 8px;
+}
+
+article.augustana h3 {
+	color: white;
+	background-color: #7F2A68;
+	font-family: Verdana;
+	font-style: bold;
+	font-size: 15pt;
+	height: 25px;
+	width 100%;
+}
+
+
+
+/* Headings */
+h1 {
+	background-color: #012E34;
+	font-size: 24pt
+	color: white;
+}
+
+h2 {
+	font-family: Verdana;
+	font-style: italic;
+	text-decoration: underline;
+	font-size: 18pt;
+	background-color: #246068;
+	color: white;
+}
+	
